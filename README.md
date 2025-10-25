@@ -7,7 +7,7 @@ This repository contains the solutions for **Section–B: Programming Tasks** of
 Each question is implemented in Python with clear code, comments, and outputs.  
 The repository is organized so that each task is in a separate file for easy navigation and evaluation.
 
----
+--- 
 
 ## 📂 Contents
 - **Q1:** [Mean, Median, Mode, Weighted Mean](t01_mean_median_mode.py)  
