@@ -13,7 +13,7 @@ The repository is organized so that each task is in a separate file for easy nav
 - **Q1:** [Mean, Median, Mode, Weighted Mean](Q1_mean_median_mode.py)  
   *Calculates basic statistical measures (mean, median, mode) using Python’s `statistics` module and includes a custom function for weighted mean.*  
 
-- **Q2:** [Range, Variance, Skewness, Kurtosis](Q2_variance_skewkurt.py)  
+- **Q2:** [Range, Variance, Skewness, Kurtosis](Q2_variance_stddev.py)  
   *Computes range, variance, skewness, and kurtosis to analyze data distribution and spread.*  
 
 - **Q3:** [Central Limit Theorem Simulation](Q3_dice_simulation.py)  
