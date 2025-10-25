@@ -16,7 +16,7 @@ The repository is organized so that each task is in a separate file for easy nav
 - **Q2:** [Range, Variance, Skewness, Kurtosis](Q2_variance_skewkurt.py)  
   *Computes range, variance, skewness, and kurtosis to analyze data distribution and spread.*  
 
-- **Q3:** [Central Limit Theorem Simulation](Q3_clt_simulation.py)  
+- **Q3:** [Central Limit Theorem Simulation](Q3_dice_simulation.py)  
   *Simulates repeated sampling to demonstrate the Central Limit Theorem and visualize sample means approaching normal distribution.*  
 
 - **Q4:** [Correlation & Regression](Q4_regression.py)  
