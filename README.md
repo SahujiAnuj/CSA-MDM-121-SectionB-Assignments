@@ -38,7 +38,7 @@ The repository is organized so that each task is in a separate file for easy nav
    ```bash
    python t01_mean_median_mode.py
 ---
-## ✅ Notes
+## ✅ Requirements: 
 - Language: **Python 3**  
 - Libraries used: `numpy`, `scipy`, `statistics`, `random`  
 - Each file is self-contained and can be executed independently.
